@@ -4,13 +4,13 @@
 ## My setup
 - Operating system:
 - Editor:
-- Git version: (paste the output of git --version)
-- Git name: (paste the output of git config user.name)
-- Git email: (paste the output of git config user.email)
+- Git version:  2.39.2 (Apple Git-143)
+- Git name: TyQuincia Oby
+- Git email: tyquinciaoby@gmail.com
 
 ## ACP log
 | # | What I changed | Commit message | Branch |
 |---|----------------|----------------|--------|
 | 1 | Made the repo on GitHub with a README | Initial commit | main |
 | 2 | Created my first page | Add first page | main |
-| 3 | ... | ... | main |
+| 3 | Updated index.html | Added a new paragraph to index.html | main |
